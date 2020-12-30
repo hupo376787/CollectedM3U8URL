@@ -24,7 +24,7 @@ All urls are collected from web, I'm not in charge of them. If these videos are 
 
 [Livestream Metadata](http://playertest.longtailvideo.com/adaptive/wowzaid3/playlist.m3u8)
 
-[Tears of Steel]((http://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel.ism/.m3u8)
+[Tears of Steel](http://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel.ism/.m3u8)
 
 [Tears of Steel 4k](http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8)
 
