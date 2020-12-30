@@ -1,4 +1,6 @@
-All m3u8 urls are collected from web, I'm not in charge of them. If these videos are your copyright, please go the the url and ask them, don't ask me. Thanks.
+All m3u8 urls are collected from web, I'm not in charge of them. If these videos are your copyright, please follow the the url and ask them, don't ask me. Thanks.
+
+You can use these urls to test players or something else.
 
 [Steve Jobs](http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8)
 
